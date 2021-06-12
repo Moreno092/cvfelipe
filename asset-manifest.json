@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cvfelipe/static/css/main.c36c522a.chunk.css",
+    "main.js": "/cvfelipe/static/js/main.9beb1f59.chunk.js",
+    "main.js.map": "/cvfelipe/static/js/main.9beb1f59.chunk.js.map",
+    "runtime-main.js": "/cvfelipe/static/js/runtime-main.59035582.js",
+    "runtime-main.js.map": "/cvfelipe/static/js/runtime-main.59035582.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/cvfelipe/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.53a1db46.chunk.js": "/cvfelipe/static/js/2.53a1db46.chunk.js",
+    "static/js/2.53a1db46.chunk.js.map": "/cvfelipe/static/js/2.53a1db46.chunk.js.map",
+    "static/js/3.54922f84.chunk.js": "/cvfelipe/static/js/3.54922f84.chunk.js",
+    "static/js/3.54922f84.chunk.js.map": "/cvfelipe/static/js/3.54922f84.chunk.js.map",
+    "index.html": "/cvfelipe/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/cvfelipe/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.c36c522a.chunk.css.map": "/cvfelipe/static/css/main.c36c522a.chunk.css.map",
+    "static/js/2.53a1db46.chunk.js.LICENSE.txt": "/cvfelipe/static/js/2.53a1db46.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cvfelipe/static/media/triangles-1430105_1280.648a1fa6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59035582.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.53a1db46.chunk.js",
+    "static/css/main.c36c522a.chunk.css",
+    "static/js/main.9beb1f59.chunk.js"
+  ]
+}
